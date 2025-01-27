@@ -8,7 +8,8 @@ Follow the steps below to set up the project on your local machine.
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/AkshayaCH-code/UrlShortener.git
+```
 
 ## 2. Create a Virtual Environment
 
