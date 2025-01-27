@@ -49,11 +49,19 @@ Start the development server:
 ```bash
 python manage.py runserver
 ```
+## 6. Create a `.env` File
 
-## 6. Access the Application
+In the project directory, create a file named `.env` and add the port as the port you are running your server:
+
+```
+PORT=8000
+```
+
+This sets the application to run on port 8000.
+## 7. Access the Application
 
 Click on the provided link (typically `http://127.0.0.1:8000/`) to view the application in your browser.
 
-## 7. Shorten the URL
+## 8. Shorten the URL
 
 Once the server is running, you can shorten URLs through the application interface.
