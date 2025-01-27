@@ -16,6 +16,8 @@ Navigate to the project directory and create a virtual environment by running:
 
 ```bash
 python -m venv venv
+```
+
 
 ## 3. Activate the Virtual Environment
 
